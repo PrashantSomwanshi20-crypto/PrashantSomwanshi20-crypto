@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant Somwanshi 👋
 
-**Aspiring Software Engineer | IT Engineering Undergrad | Backend & Data Enthusiast**
+**Backend & Full-Stack Developer | IT Engineering Undergraduate | Python & SQL**
 
 I'm an Information Technology engineering student passionate about building scalable backend systems, data-driven applications, and solving complex algorithmic problems. Currently, I am actively building my skills in software development, mastering core CS concepts, and preparing for GATE CSIT.
 
