@@ -1,7 +1,6 @@
 ### Hi there, I'm Prashant Somwanshi 👋
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+  <img width="600" height="337" alt="finalgift" src="https://github.com/user-attachments/assets/8991a9e1-6c7c-4bdb-bd4c-290820e9a6d4" />
+
   
 
 **Backend & Full-Stack Developer | IT Engineering Undergraduate | C++ & JAVA**
